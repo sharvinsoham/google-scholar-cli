@@ -1,0 +1,5 @@
+scholarly
+beautifulsoup4
+undetected-chromedriver
+requests
+typer[all]
